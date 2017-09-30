@@ -1,0 +1,28 @@
+{
+  "likes": [
+    {
+      "id": 7290097,
+      "OwnerId": "comment4"
+    },
+    {
+      "id": 6405663,
+      "OwnerId": "comment4"
+    },
+    {
+      "id": 5294861,
+      "OwnerId": "comment4"
+    },
+    {
+      "id": 4134887,
+      "OwnerId": "comment3"
+    },
+    {
+      "Id": 1,
+      "OwnerId": "coment1"
+    },
+    {
+      "id": 2,
+      "OwnerId": "coment2"
+    }
+  ]
+}

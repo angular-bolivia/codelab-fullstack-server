@@ -1,0 +1,36 @@
+{
+  "publications": [
+    {
+      "id": 1,
+      "title": "Introduction to Angular",
+      "author": "Kenji Lozano",
+      "preview": "Web Age Solution's Introduction to Angular 4 training covers everything you need to know to get started",
+      "content": "",
+      "createdAt": "1506721033312"
+    },
+    {
+      "id": 2,
+      "title": "Custom Post",
+      "author": "Guest",
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ",
+      "content": "",
+      "createdAt": "123"
+    },
+    {
+      "id": 3,
+      "title": "json-server",
+      "author": "Guest",
+      "preview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore ",
+      "content": "",
+      "createdAt": "123"
+    },
+    {
+      "id": 4,
+      "title": "json-server",
+      "author": "Guest",
+      "preview": "Lorem",
+      "content": "",
+      "createdAt": "123"
+    }
+  ]
+}

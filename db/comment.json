@@ -1,0 +1,28 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "owner": "Guest",
+      "content": "Comment 1",
+      "publicationId": 1
+    },
+    {
+      "id": 2,
+      "owner": "Guest",
+      "content": "comment 2",
+      "publicationId": 2
+    },
+    {
+      "id": 3,
+      "owner": "Guest",
+      "content": "comment 3",
+      "publicationId": 3
+    },
+    {
+      "id": 4,
+      "owner": "Guest",
+      "content": "comment 4",
+      "publicationId": 4
+    }
+  ]
+}
